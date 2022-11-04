@@ -1,0 +1,274 @@
+  body {
+    font-family: 'League Spartan', sans-serif;
+    font-size: 15px;
+
+
+  }
+
+  /* fonts */
+  .b7 {
+    font-weight: 700;
+  }
+
+  .m5 {
+    font-weight: 500;
+  }
+
+  .s4 {
+    font-weight: 400;
+  }
+
+
+  /* COLORS */
+
+  .cn1c{
+    color: hsl(300, 43%, 22%);
+    font-size: 3.5rem;
+    margin-bottom: 15px;
+  }
+
+  .cn1cp{
+    color: hsl(303, 10%, 53%);
+    font-size: 1.1rem;
+  }
+
+  .cn2c{
+    color: hsl(300, 43%, 22%);
+    font-size: 1rem;
+  }
+
+  .ccccc{
+     width: 1rem;
+
+  }
+
+
+
+  .sbg{
+    background-color: hsl(300, 24%, 96%);
+    width: 78%;
+    border-radius: 10px;
+
+
+  }
+
+  .star-left-pad{
+    margin-left: 30px;
+  }
+
+  .star-box1{
+    margin-top: 50px;
+
+  }
+
+  .star-box2{
+    margin-left: 45px;
+  }
+
+  .star-box3{
+    margin-left: 90px;
+  }
+
+
+  .marb{
+    padding-top: 14px;
+    margin-bottom: 20px;
+  }
+
+  .pp3{
+    color: hsl(333, 80%, 67%);
+
+  }
+
+
+
+  /* PADDING BELOW 1ST 2 CONTAINERS */
+
+  .ppdd{
+    padding-top: 7%;
+  }
+
+
+
+  .con44{
+    color: hsl(300, 24%, 96%);
+    background-color: hsl(300, 43%, 22%);
+    padding: 5% 10%;
+    border-radius: 10px;
+
+
+
+  }
+
+  .cp3{
+    margin: 0;
+  }
+
+
+
+
+
+  /* CONTAINER FLUID WIDTH and inner padding */
+
+  .widd{
+    padding: 0 13%;
+
+    margin-top: ;
+
+
+  }
+
+  .iim{
+  padding: 0;
+
+  }
+
+
+
+
+
+
+  /* PROFILE IMAGE */
+
+  .pi{
+    border-radius: 100%;
+    width: 17%;
+    float: left;
+    margin-right: 20px;
+  }
+
+  /* 1st container bottom margin */
+  .ssbgg{
+    margin-bottom: 20px;
+    padding-right: 80px;
+  }
+
+
+  /* BOTTOM COLUMS HEIGHT SPACING IN LARGE SCREEN */
+
+  .con32{
+  margin-top: 25px;
+  }
+
+  .con33{
+  margin-top: 50px;
+  }
+
+
+
+
+
+  .bottom-col-margin{
+    margin-top: 25px;
+  }
+
+  .para-clear{
+    clear: left;
+    margin-top: 10%;
+  }
+
+
+
+
+  @media (max-width: 1270px) {
+
+
+  /* 1st Container Action */
+
+  .con1{
+    width: 100%;
+    text-align: center;
+
+  }
+
+
+
+  /* 2nd container */
+
+  .con2{
+    text-align: center;
+    width: 100%;
+    padding: 0;
+
+  }
+
+  .star-box1{
+    margin-top: 30px auto;
+
+  }
+
+  .star-box2{
+    margin-left: 0;
+  }
+
+  .star-box3{
+    margin-left: 0;
+  }
+
+  .star-top{
+    width: 100%;
+  }
+
+  .star-left-pad{
+    margin-left: 0;
+  }
+
+  /* 3nd container */
+
+  .bottom-col-margin{
+    padding: 0;
+    margin: 0;
+
+  }
+
+  .con31{
+    width: 100%;
+    padding: 0;
+    margin-top: 15px;
+  }
+  .con32{
+    width: 100%;
+    padding: 0;
+  }
+  .con33{
+    width: 100%;
+    padding: 0;
+    margin-top: 25px;
+    margin-bottom: 40px;
+  }
+
+  .sbg{
+
+    margin : auto auto;
+    width: 100%;
+  }
+
+  .ssbgg{
+
+    padding: 0;
+  }
+
+
+
+
+
+
+  }
+
+
+    .bg-img-t{
+
+      position: absolute;
+      z-index: -1;
+
+
+    }
+
+    .bg-img-b{
+
+      position: absolute;
+     right: 0;
+     bottom: 0;
+     z-index: -1;
+
+    }
